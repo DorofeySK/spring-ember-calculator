@@ -1,0 +1,11 @@
+package calcrestapi.opers;
+
+import java.math.BigDecimal;
+
+import calcrestapi.rq.Request;
+
+public class Sum {
+	static public BigDecimal getSum(Request rq) {
+		return rq.getFirst().add(rq.getSecond());
+	}
+}

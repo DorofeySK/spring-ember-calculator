@@ -1,0 +1,22 @@
+package calcrestapi.rq;
+
+public class Request {
+	private Number first;
+	private Number second;
+	
+	public void setFirst(Number first) {
+		this.first = first;
+	}
+	
+	public void setSecond(Number second) {
+		this.second = second;
+	}
+	
+	public Number getFirst() {
+		return first;
+	}
+	
+	public Number getSecond() {
+		return second;
+	}
+}

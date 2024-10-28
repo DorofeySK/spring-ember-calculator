@@ -1,0 +1,20 @@
+package calcrestapi.controllers;
+
+import java.math.BigDecimal;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import calcrestapi.opers.Sum;
+import calcrestapi.rq.Request;
+
+@RestController
+@RequestMapping(path = "/api/sum", produces = "application/json")
+public class SumController {
+	@PostMapping(consumes = "application/json")
+	public BigDecimal getSum(@RequestBody Request rq) {
+		return Sum.getSum(rq);
+	}
+}

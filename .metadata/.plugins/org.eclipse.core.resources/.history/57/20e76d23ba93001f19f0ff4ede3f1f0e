@@ -1,0 +1,9 @@
+package calcrestapi.data;
+
+import calcrestapi.rq.Request;
+
+public class Sum {
+	static public Number getSum(Request rq) {
+		return rq.getFirst() + rq.getSecond();
+	}
+}
