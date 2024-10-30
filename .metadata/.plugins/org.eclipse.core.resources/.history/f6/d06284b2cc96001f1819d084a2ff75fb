@@ -1,0 +1,8 @@
+package calcrestapi.message;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Response {
+	Map<String, Object> rs = new HashMap<>();
+}

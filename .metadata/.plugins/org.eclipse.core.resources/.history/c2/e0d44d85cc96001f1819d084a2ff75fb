@@ -1,0 +1,5 @@
+package calcrestapi.message;
+
+public class Response {
+
+}
