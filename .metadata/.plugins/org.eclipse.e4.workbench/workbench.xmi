@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_NM5HwJbREe-0uYKi_8vh3g" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_NM5HwZbREe-0uYKi_8vh3g" bindingContexts="_NM5znJbREe-0uYKi_8vh3g">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DivController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/SumController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/SumController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SubController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IMathOper.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/opers/IMathOper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/opers/IMathOper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Response.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/message/Response.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/message/Response.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MultController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/MultController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/MultController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Sum.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/opers/Sum.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/opers/Sum.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IOper.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/opers/IOper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/opers/IOper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Request.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/rq/Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/rq/Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Sum.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/data/Sum.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/data/Sum.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;spring-calc-restapi/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SubController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DivController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MultController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/MultController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/MultController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/SumController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/SumController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IMathOper.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/opers/IMathOper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/opers/IMathOper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Response.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/message/Response.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/message/Response.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Sum.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/opers/Sum.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/opers/Sum.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IOper.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/opers/IOper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/opers/IOper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Request.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/rq/Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/rq/Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Sum.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/data/Sum.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/data/Sum.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;spring-calc-restapi/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spring-calc-restapi/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_NM5HwZbREe-0uYKi_8vh3g" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_NM5HwpbREe-0uYKi_8vh3g" label="%trimmedwindow.label.eclipseSDK" x="1273" y="0" width="1294" height="1399">
     <persistedState key="coolBarVisible" value="true"/>
@@ -114,7 +114,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_NM5H0ZbREe-0uYKi_8vh3g" containerData="7500" selectedElement="_NM5H2pbREe-0uYKi_8vh3g">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_NM5H0ZbREe-0uYKi_8vh3g" containerData="7500" selectedElement="_NM5H0pbREe-0uYKi_8vh3g">
               <children xsi:type="basic:PartSashContainer" xmi:id="_NM5H0pbREe-0uYKi_8vh3g" containerData="7500" selectedElement="_NM5H05bREe-0uYKi_8vh3g" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_NM5H05bREe-0uYKi_8vh3g" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_NM5woZbREe-0uYKi_8vh3g"/>
                 <children xsi:type="basic:PartStack" xmi:id="_NM5H1JbREe-0uYKi_8vh3g" elementId="right" toBeRendered="false" containerData="2500">
@@ -214,22 +214,29 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_NM5woZbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.editorss" selectedElement="_NM5wopbREe-0uYKi_8vh3g">
-      <children xsi:type="basic:PartStack" xmi:id="_NM5wopbREe-0uYKi_8vh3g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_NM5wp5bREe-0uYKi_8vh3g">
+      <children xsi:type="basic:PartStack" xmi:id="_NM5wopbREe-0uYKi_8vh3g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_6_8SUJbUEe-HTYvVO5H-_Q">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_NM5wo5bREe-0uYKi_8vh3g" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SubController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SubController.java&quot; partName=&quot;SubController.java&quot; title=&quot;SubController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;747&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_6xhb0JbUEe-HTYvVO5H-_Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MultController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MultController.java&quot; partName=&quot;MultController.java&quot; title=&quot;MultController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/MultController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/MultController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_NM5wp5bREe-0uYKi_8vh3g" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DivController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DivController.java&quot; partName=&quot;DivController.java&quot; title=&quot;DivController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;379&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_64AeUJbUEe-HTYvVO5H-_Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DivController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DivController.java&quot; partName=&quot;DivController.java&quot; title=&quot;DivController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/DivController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_6_8SUJbUEe-HTYvVO5H-_Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SubController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SubController.java&quot; partName=&quot;SubController.java&quot; title=&quot;SubController.java&quot; tooltip=&quot;spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spring-calc-restapi/src/main/java/calcrestapi/controllers/SubController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -243,7 +250,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_NM5xVpbREe-0uYKi_8vh3g" elementId="org.eclipse.jdt.ui.PackageExplorer"/>
+      <toolbar xmi:id="_NM5xVpbREe-0uYKi_8vh3g" elementId="org.eclipse.jdt.ui.PackageExplorer" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_NM5xWpbREe-0uYKi_8vh3g" elementId="org.eclipse.jdt.ui.TypeHierarchy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/class_hi.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyViewPart"/>
@@ -297,7 +304,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_NM5xaJbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.console.ConsoleView"/>
+      <toolbar xmi:id="_NM5xaJbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_NM5xeJbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.BookmarksView"/>
@@ -363,7 +370,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_NM5xmJbREe-0uYKi_8vh3g" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView"/>
+      <toolbar xmi:id="_NM5xmJbREe-0uYKi_8vh3g" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_NM5xpJbREe-0uYKi_8vh3g" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Terminal" iconURI="platform:/plugin/org.eclipse.tm.terminal.view.ui/icons/eview16/terminal_view.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.tm.terminal.view.ui.view.TerminalsView"/>
@@ -384,7 +391,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NM5xqZbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_NM5xsZbREe-0uYKi_8vh3g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_NM6_6ZbREe-0uYKi_8vh3g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_fYo_IJbUEe-HTYvVO5H-_Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_NM6_6ZbREe-0uYKi_8vh3g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NM5xtpbREe-0uYKi_8vh3g" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -392,8 +399,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NM5xuJbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_NM5xupbREe-0uYKi_8vh3g" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_NM6-N5bREe-0uYKi_8vh3g"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_NM5xu5bREe-0uYKi_8vh3g" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_NM6-rJbREe-0uYKi_8vh3g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_fYq0UJbUEe-HTYvVO5H-_Q" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_NM6-N5bREe-0uYKi_8vh3g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_fYq0UZbUEe-HTYvVO5H-_Q" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_NM6-rJbREe-0uYKi_8vh3g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NM5xvJbREe-0uYKi_8vh3g" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -417,10 +424,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NM5x6pbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_NM5x8JbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_NM6_pJbREe-0uYKi_8vh3g"/>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_NM5x9ZbREe-0uYKi_8vh3g" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
-        <tags>Draggable</tags>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_fYrbYJbUEe-HTYvVO5H-_Q" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_NM6_pJbREe-0uYKi_8vh3g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NM5x9pbREe-0uYKi_8vh3g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1426,18 +1430,18 @@
     <tags>View</tags>
     <tags>categoryTag:Other</tags>
   </descriptors>
-  <trimContributions xmi:id="_NM69KZbREe-0uYKi_8vh3g" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
-    <children xsi:type="menu:ToolControl" xmi:id="_NM69KpbREe-0uYKi_8vh3g" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
       <tags>glue</tags>
       <tags>move_after:PerspectiveSpacer</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
-    <children xsi:type="menu:ToolControl" xmi:id="_NM69K5bREe-0uYKi_8vh3g" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
       <tags>move_after:Spacer Glue</tags>
       <tags>HIDEABLE</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
-    <children xsi:type="menu:ToolControl" xmi:id="_NM69LJbREe-0uYKi_8vh3g" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
       <tags>glue</tags>
       <tags>move_after:SearchField</tags>
       <tags>SHOW_RESTORE_MENU</tags>
