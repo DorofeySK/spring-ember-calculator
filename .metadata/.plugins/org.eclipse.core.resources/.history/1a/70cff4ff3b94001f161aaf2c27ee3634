@@ -1,5 +1,0 @@
-package calcrestapi.opers;
-
-public interface IOper {
-
-}
