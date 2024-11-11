@@ -2,6 +2,7 @@ package calcrestapi.controllers;
 
 import java.util.Map;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,6 +16,7 @@ import calcrestapi.opers.IMathOper;
 @RequestMapping(path = "/api/mult", produces = "application/json")
 public class MultController {
 	@PostMapping(consumes = "application/json")
+	@CrossOrigin
 	public Map<String, Object> getMult(@RequestBody Request rq) {
 		IMathOper mult = (x, y) -> x.multiply(y);
 		return new Response().add(
